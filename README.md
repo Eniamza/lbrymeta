@@ -16,6 +16,6 @@ Bineries are available at [Releases](https://github.com/Eniamza/lbrymeta/release
 4. Run the app `node index.js`
 5. Enjoy :wink:
 
-If you love the project. Consider Donating at
-LBC : `bSnBdsuSMvzozjfiFDVfPoV4kbtN2YNRWM`
-Cointree : https://cointr.ee/eni
+If you love the project. Consider Donating at <br>
+LBC : `bSnBdsuSMvzozjfiFDVfPoV4kbtN2YNRWM` <br>
+Cointree : https://cointr.ee/eni <br>
