@@ -1,0 +1,22 @@
+{
+  "name": "lbrymeta",
+  "version": "0.1.0",
+  "description": "A script that dumps channel meta in CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lbry",
+    "lbrynet",
+    "channel",
+    "dump",
+    "csv"
+  ],
+  "author": "Eniamza",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
