@@ -17,6 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
+    "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
   }
 }
