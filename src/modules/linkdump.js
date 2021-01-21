@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 const axios = require('axios');
-const fs = require(`fs`);
+const fs = require('fs');
 
 
     let metadata;
