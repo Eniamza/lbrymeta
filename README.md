@@ -31,3 +31,10 @@ Suppose Meta Information such as Name, description, claimid is Cake :yum: . Whic
 If you love the project. Consider Donating at <br>
 LBC : `bSnBdsuSMvzozjfiFDVfPoV4kbtN2YNRWM` <br>
 Cointree : https://cointr.ee/eni <br>
+
+### Modules
+
+--------------------
+
+- FullDump : Dumps every information available for a channel on blockchain 
+- LinkDump : Dumps Title and Generates download links for every content in a channel 
