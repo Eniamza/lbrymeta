@@ -1,10 +1,11 @@
 const fulldump = require('./src/modules/fulldump');
+const linkdump = require('./src/modules/linkdump');
 const readlineSync = require('readline-sync');
 
 
 let typeOptions = [`Full Dump`,`Link Dump`];
 let dumpType = readlineSync.keyInSelect(typeOptions, 'Select Your Choice');
-console.log(dumpType);
+console.log(`Selected`+dumpType+1);
 
 if(dumpType==0){
     fulldump();
@@ -13,5 +14,5 @@ if(dumpType==0){
 
 else if (dumpType==1){
 
-    
+    linkdump();
 }
