@@ -5,7 +5,7 @@ const readlineSync = require('readline-sync');
 
 let typeOptions = [`Full Dump`,`Link Dump`];
 let dumpType = readlineSync.keyInSelect(typeOptions, 'Select Your Choice');
-console.log(`Selected`+dumpType+1);
+console.log(`Selected option `+dumpType);
 
 if(dumpType==0){
     fulldump();
