@@ -26,7 +26,7 @@ Lets say , you want to get all the download links of [Gutenberg Channel](https:/
 
 Instead of that start this and app choose option 2. Enter channel claimid . Voila! All download links will be generated along with title and stored in meta.json file.
 
-Now you may even covert it to CSV or Excel file to mass import on Marketplaces. Or your Content listing site. For example (Enypt Library)[https://enypt.cc]
+Now you may even covert it to CSV or Excel file to mass import on Marketplaces. Or your Content listing site. For example [Enypt Library](https://enypt.cc)
 
 ### Running in node environment locally 
 
