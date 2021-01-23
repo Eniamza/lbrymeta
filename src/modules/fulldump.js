@@ -9,9 +9,10 @@ let metadata;
 let lbryData;
 let bye ;
 
-console.log(`Fetching from ${url}`);
+
 let channelClaim = prompt(`Enter Channel Claimid:`);
 let url = `https://chainquery.lbry.com/api/sql?query=SELECT%20*%20FROM%20claim%20WHERE%20publisher_id%20=%20%27${channelClaim}%27%20AND%20bid_state%20%3C%3E%20%27Spent%27`;
+console.log(`Fetching from ${url}`);
 axios.get(url)
 .then (response =>{
     metadata= response.data;
