@@ -1,6 +1,6 @@
 {
   "name": "lbrymeta",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "A script that dumps channel meta in CSV",
   "main": "index.js",
   "scripts": {
